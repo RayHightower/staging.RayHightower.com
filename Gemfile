@@ -12,3 +12,5 @@ gem 'jekyll-paginate'
 gem 'rouge', '1.7.0'
 gem 'rack-jekyll'
 gem 'kramdown-parser-gfm'
+
+gem "webrick", "~> 1.7"
