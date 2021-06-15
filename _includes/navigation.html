@@ -1,0 +1,10 @@
+<select name="formrth" onchange="location = this.options[this.selectedIndex].value;">
+  <option value="/" {% if page.url == "/index.html" %} selected{% endif %}>- select one -</option>
+  <option value="/search/" {% if page.url == "/search/" %} selected{% endif %}>Search</option>
+  <option value="/about/" {% if page.url == "/about/" %} selected{% endif %}>About</option>
+  <option value="/speaking/" {% if page.url == "/speaking/" %} selected{% endif %}>Speaking</option>
+  <option value="/if-rudyard-kipling/" {% if page.url == "/if-rudyard-kipling/" %} selected{% endif %}>If - Kipling</option>
+  <option value="/archive/" {% if page.url == "/archive/" %} selected{% endif %}>Blog Archive</option>
+  <option value="/tags/" {% if page.url == "/tags/" %} selected{% endif %}>Blog Categories</option>
+  <option value="/contact/" {% if page.url == "/contact/" %} selected{% endif %}>Contact</option>
+</select>
