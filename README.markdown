@@ -1,7 +1,7 @@
-RayHightower.com
+staging.RayHightower.com
 ===
 
-This repo contains source code for [RayHightower.com](http://rayhightower.com). Details:
+This repo contains source code for the STAGING site for RayHightower.com [staging.RayHightower.com](http://staging.rayhightower.com). Details:
 
 * Based on [Jekyll](http://rayhightower.com/blog/2015/06/24/getting-started-with-jekyll/), the static page generator written in Ruby.
 
