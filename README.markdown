@@ -1,6 +1,8 @@
 staging.RayHightower.com
 ===
 
+All action happens in the `gh-pages` branch.
+
 This repo contains source code for the STAGING site for RayHightower.com [staging.RayHightower.com](http://staging.rayhightower.com). Details:
 
 * Based on [Jekyll](http://rayhightower.com/blog/2015/06/24/getting-started-with-jekyll/), the static page generator written in Ruby.
